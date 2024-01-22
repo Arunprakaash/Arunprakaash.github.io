@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello there! :) I&#39;m Arun.</title>
+    <link>localhost/</link>
+    <description>Recent content on Hello there! :) I&#39;m Arun.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Co Founder @sayvai.io</title>
+      <link>localhost/work-experience/sayvai/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/work-experience/sayvai/</guid>
+      <description>Since jun
+At Sayvai.io, we&amp;rsquo;re on a mission to democratize Artificial Intelligence, making it an integral part of every business. As a co-founder, I am deeply involved in strategizing and deploying advanced AI solutions that revolutionize business operations. We&amp;rsquo;re committed to making cutting-edge AI technology accessible, helping companies of all sizes seamlessly transition into the digital era. Our innovative approach ensures that any business can integrate AI into their core, elevating their operations and staying ahead in the market.</description>
+    </item>
+    
+    <item>
+      <title>Defensive Distillation</title>
+      <link>localhost/projects/defensive-distillation/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/projects/defensive-distillation/</guid>
+      <description>Defensive Distillation is an implementation based on the seminal paper, enhancing the robustness of deep neural networks against adversarial attacks. This technique involves training a &amp;ldquo;student&amp;rdquo; model on perturbed data produced by a &amp;ldquo;teacher&amp;rdquo; model to improve defense against gradient-based attacks.
+Key highlights include:
+Utilizing TensorFlow and the MNIST dataset. Demonstrating increased resilience through distillation, with a slight trade-off in accuracy. Successfully defending against FGSM adversarial attacks. For a deeper dive into Defensive Distillation&amp;rsquo;s impact on model robustness, visit the project repository.</description>
+    </item>
+    
+    <item>
+      <title>AI/ML Engineer</title>
+      <link>localhost/work-experience/ai-ml/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/work-experience/ai-ml/</guid>
+      <description>Data Science and NLP Engineer at Robert Bosch Engineering and Business Solutions Private Limited
+July 2022 - December 2022
+During my internship, I engaged in cutting-edge projects centered around Natural Language Processing (NLP) and data processing. I applied various NLP techniques and Natural Language Understanding (NLU) methodologies to enhance data analysis and processing capabilities. My role included developing models to cluster and interpret complex log data, significantly improving error handling and insights.</description>
+    </item>
+    
+    <item>
+      <title>Game Dev</title>
+      <link>localhost/work-experience/game-dev/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/work-experience/game-dev/</guid>
+      <description>Jul 2021 - Oct 2021
+Spearheaded the development of an interactive word guess puzzle game using the Unity engine, enhancing user engagement through challenging gameplay. Implemented Firebase as the backend to efficiently manage data storage and retrieval for each game level, ensuring smooth user experiences. Pioneered a web application that allows text input to generate pixel-based images via API, enabling the creation of new game levels and enriching content diversity. This internship honed my technical skills in game development and backend integration, culminating in a versatile and dynamic gaming experience.</description>
+    </item>
+    
+    <item>
+      <title>Song Recommendation Engine</title>
+      <link>localhost/projects/song-recommendation-engine/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/projects/song-recommendation-engine/</guid>
+      <description>This project focuses on creating a personalized song recommendation system. It demonstrates the application of machine learning techniques to analyze and suggest songs based on user preferences. It&amp;rsquo;s a perfect example of how data can be used to enhance user experience in the domain of music.
+click here to know more</description>
+    </item>
+    
+    <item>
+      <title>Fry the Brain</title>
+      <link>localhost/projects/fry-the-brain/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/projects/fry-the-brain/</guid>
+      <description>Math is fun when done the fun way!
+&amp;ldquo;Fry The Brain&amp;rdquo; challenge is a stimulating mobile game that tests your arithmetic prowess under the pressure of a ticking clock. Solve as many problems as you can, climb the leaderboard, and invite friends to join the fray. Whether you&amp;rsquo;re honing your skills or taking on the ultimate number challenge, &amp;ldquo;Fry The Brain&amp;rdquo; is your playground for numerical mastery.
+Excited for the Math Craze?</description>
+    </item>
+    
+    <item>
+      <title>Game Designer</title>
+      <link>localhost/work-experience/game-design/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/work-experience/game-design/</guid>
+      <description>Role: Android Game Developer Intern
+Duration: December 2020 - June 2021
+Client: CoCognito (www.cocognito.com)
+Project: MathCraze (Available on Android Play Store)
+During my tenure as an intern, I contributed to the development of &amp;ldquo;MathCraze,&amp;rdquo; a game that challenges and entertains users with math-based puzzles. My role involved extensive work in game development within the Unity engine, integrating Firebase for backend functionality, and deploying the game to the Android Play Store. My commitment to learning and improving the gaming experience was recognized by the team, and I was commended for my ability to transform requirements into efficient, working code.</description>
+    </item>
+    
+    <item>
+      <title>First Person Shooter</title>
+      <link>localhost/projects/first-person-shooter/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/projects/first-person-shooter/</guid>
+      <description>This First-Person Shooter game, developed in Unity, showcases my expertise in game design and programming. The project features engaging gameplay, advanced graphics, and interactive environments, emphasizing real-time action and character control. Below is a prototype video demonstrating the gameplay experience.
+Explore more about this project</description>
+    </item>
+    
+    <item>
+      <title>Triangles</title>
+      <link>localhost/projects/triangles/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/projects/triangles/</guid>
+      <description>Dive into the retro gaming universe with my 2D Top-Down Shooter, a game that brings a modern twist to the classic arcade shooter genre. Featuring minimalist design and intuitive touch controls, the game challenges players to navigate a sleek battlefield represented by a starry backdrop and geometric adversaries. Health bars and scores are displayed with a clean, unobtrusive UI, allowing for an immersive gaming experience. Engage in this arcade-style combat and enjoy a contemporary take on retro gaming.</description>
+    </item>
+    
+  </channel>
+</rss>

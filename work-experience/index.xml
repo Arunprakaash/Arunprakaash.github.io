@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work Experiences on Hello there! :) I&#39;m Arun.</title>
+    <link>localhost/work-experience/</link>
+    <description>Recent content in Work Experiences on Hello there! :) I&#39;m Arun.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="localhost/work-experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Co Founder @sayvai.io</title>
+      <link>localhost/work-experience/sayvai/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/work-experience/sayvai/</guid>
+      <description>Since jun
+At Sayvai.io, we&amp;rsquo;re on a mission to democratize Artificial Intelligence, making it an integral part of every business. As a co-founder, I am deeply involved in strategizing and deploying advanced AI solutions that revolutionize business operations. We&amp;rsquo;re committed to making cutting-edge AI technology accessible, helping companies of all sizes seamlessly transition into the digital era. Our innovative approach ensures that any business can integrate AI into their core, elevating their operations and staying ahead in the market.</description>
+    </item>
+    
+    <item>
+      <title>AI/ML Engineer</title>
+      <link>localhost/work-experience/ai-ml/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/work-experience/ai-ml/</guid>
+      <description>Data Science and NLP Engineer at Robert Bosch Engineering and Business Solutions Private Limited
+July 2022 - December 2022
+During my internship, I engaged in cutting-edge projects centered around Natural Language Processing (NLP) and data processing. I applied various NLP techniques and Natural Language Understanding (NLU) methodologies to enhance data analysis and processing capabilities. My role included developing models to cluster and interpret complex log data, significantly improving error handling and insights.</description>
+    </item>
+    
+    <item>
+      <title>Game Dev</title>
+      <link>localhost/work-experience/game-dev/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/work-experience/game-dev/</guid>
+      <description>Jul 2021 - Oct 2021
+Spearheaded the development of an interactive word guess puzzle game using the Unity engine, enhancing user engagement through challenging gameplay. Implemented Firebase as the backend to efficiently manage data storage and retrieval for each game level, ensuring smooth user experiences. Pioneered a web application that allows text input to generate pixel-based images via API, enabling the creation of new game levels and enriching content diversity. This internship honed my technical skills in game development and backend integration, culminating in a versatile and dynamic gaming experience.</description>
+    </item>
+    
+    <item>
+      <title>Game Designer</title>
+      <link>localhost/work-experience/game-design/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/work-experience/game-design/</guid>
+      <description>Role: Android Game Developer Intern
+Duration: December 2020 - June 2021
+Client: CoCognito (www.cocognito.com)
+Project: MathCraze (Available on Android Play Store)
+During my tenure as an intern, I contributed to the development of &amp;ldquo;MathCraze,&amp;rdquo; a game that challenges and entertains users with math-based puzzles. My role involved extensive work in game development within the Unity engine, integrating Firebase for backend functionality, and deploying the game to the Android Play Store. My commitment to learning and improving the gaming experience was recognized by the team, and I was commended for my ability to transform requirements into efficient, working code.</description>
+    </item>
+    
+  </channel>
+</rss>
